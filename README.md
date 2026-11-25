@@ -2,6 +2,17 @@
 
 Everything about the **Bristol Silicon Society** chip in one place: a RISC-V (TinyQV) games chip with peripherals built by six teams, taped out on the Tiny Tapeout GF180 shuttle (TTGF27a, April 2027).
 
+## New here? Read these in order
+
+1. [start-here.md](start-here.md): what we're building and how it fits together
+2. [setup.md](setup.md): get the tools working (one click with Codespaces)
+3. [your-first-pr.md](your-first-pr.md): practise the GitHub workflow
+4. [how-peripherals-work.md](how-peripherals-work.md): registers, addresses and the bus, in plain English
+5. [example-walkthrough.md](example-walkthrough.md): the example peripheral, line by line
+6. [glossary.md](glossary.md): every term in one place
+
+## Reference
+
 | Read this | When |
 |---|---|
 | [system-spec.md](system-spec.md) | What the whole chip does: pins, clock, slots, size budgets |
