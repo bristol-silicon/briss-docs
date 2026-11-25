@@ -9,7 +9,8 @@ Everything about the **Bristol Silicon Society** chip in one place: a RISC-V (Ti
 3. [your-first-pr.md](your-first-pr.md): practise the GitHub workflow
 4. [how-peripherals-work.md](how-peripherals-work.md): registers, addresses and the bus, in plain English
 5. [example-walkthrough.md](example-walkthrough.md): the example peripheral, line by line
-6. [glossary.md](glossary.md): every term in one place
+6. [writing-your-spec.md](writing-your-spec.md): how to write your team's SPEC.md, with a worked [example](example-spec.md)
+7. [glossary.md](glossary.md): every term in one place
 
 ## Reference
 
